@@ -1,0 +1,60 @@
+html {box-sizing:border-box;}
+*,**::before,::after{box-sizing:inherit;}
+
+.container {
+    width: 1200px;
+    display: flex;
+    margin: auto;
+}
+
+.header {
+    background: pink;
+    height:200px;
+  
+}
+
+img {
+    height: 400px;
+}
+
+.info {
+    display: flex;
+
+}
+
+#news {
+    width: 395px;
+    height: 300px;
+    background: yellow;
+
+}
+
+#specials{
+    width: 395px;
+    height: 300px;
+    background: yellow;
+
+}
+
+#locations {
+    width: 395px;
+    height: 300px;
+    background: yellow;
+
+}
+.bottom {
+    display: flex;
+}
+
+.tabs {
+    width: 900px;
+    background: lightblue;
+
+
+}
+
+.photo {
+    width: 300px;
+    background: gray;
+}
+
